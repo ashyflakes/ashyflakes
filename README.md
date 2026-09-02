@@ -1,4 +1,4 @@
-## hi 
+## hey
 
 im just a simple junior front-end developer
 but i also make really simple games in python
