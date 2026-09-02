@@ -1,23 +1,24 @@
-## hey
+# Hey
 
-im just a simple junior front-end developer
-but i also make really simple games in python
-and i know a small bit of C (language)
+I'm just a simple junior front-end developer.  
+I also make really simple games in Python, and I know a small bit of C.
 
-## things i've learned:
+---
 
-### languages:
+## 🧠 Things I've learned
 
+### Languages
 * HTML
 * CSS
 * TypeScript (which is basically JavaScript)
 
-### frameworks:
-
+### Frameworks
 * React
   - React Router
 
-## still learning:
+---
+
+## 🌱 Still learning
 
 * C
 * Python
