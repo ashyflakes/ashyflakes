@@ -1,16 +1,25 @@
-## Hi there 👋
+## hi 
 
-<!--
-**ashyflakes/ashyflakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im just a simple junior front-end developer
+but i also make really simple games in python
+and i know i small bit of C (language)
 
-Here are some ideas to get you started:
+## things i've learned:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### languages:
+
+* HTML
+* CSS
+* TypeScript (which is basically JavaScript)
+
+### frameworks:
+
+* React
+  - React Router
+
+## still learning:
+
+* C
+* Python
+  - Django
+  - Pygame
