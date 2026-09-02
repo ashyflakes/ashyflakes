@@ -2,7 +2,7 @@
 
 im just a simple junior front-end developer
 but i also make really simple games in python
-and i know i small bit of C (language)
+and i know a small bit of C (language)
 
 ## things i've learned:
 
