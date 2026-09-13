@@ -10,7 +10,7 @@ i also make really simple games in Python, and I know a small bit of C.
 ### languages
 * HTML
 * CSS
-* TypeScript (which is basically JavaScript)
+* TypeScript
 
 ### frameworks
 * React
