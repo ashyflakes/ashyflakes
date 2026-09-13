@@ -22,6 +22,7 @@ i also make really simple games in Python, and I know a small bit of C.
 
 ## still learning
 
+* React
 * C
 * Python
   - Django
