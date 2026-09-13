@@ -1,7 +1,7 @@
 # hey
 
-I'm just a simple junior front-end developer.  
-I also make really simple games in Python, and I know a small bit of C.
+i'm just a junior front-end developer.  
+i also make really simple games in Python, and I know a small bit of C.
 
 ---
 
