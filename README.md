@@ -1,24 +1,26 @@
-# Hey
+# hey
 
 I'm just a simple junior front-end developer.  
 I also make really simple games in Python, and I know a small bit of C.
 
 ---
 
-## 🧠 Things I've learned
+##  things I've learned
 
-### Languages
+### languages
 * HTML
 * CSS
 * TypeScript (which is basically JavaScript)
 
-### Frameworks
+### frameworks
 * React
   - React Router
+  - Express / Nest js
+  - Next.js
 
 ---
 
-## 🌱 Still learning
+## still learning
 
 * C
 * Python
