@@ -12,12 +12,6 @@ i also make really simple games in Python, and I know a small bit of C.
 * CSS
 * TypeScript
 
-### frameworks
-* React
-  - React Router
-  - Express / Nest js
-  - Next.js
-
 ---
 
 ## still learning
@@ -25,5 +19,5 @@ i also make really simple games in Python, and I know a small bit of C.
 * React
 * C
 * Python
-  - Django
-  - Pygame
+* Java
+* Go
